@@ -19,7 +19,7 @@ namespace Xamarin.IOS.Test.Lib
 
         public int GetAnotherInt()
         {
-            return 4;
+            return 6;
         }
     }
 }
